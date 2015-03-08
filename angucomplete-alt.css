@@ -19,7 +19,8 @@
     background-color: #ffffff;
 }
 
-.angucomplete-searching {
+.angucomplete-searching,
+.angucomplete-no-result {
     color: #acacac;
     font-size: 14px;
 }
